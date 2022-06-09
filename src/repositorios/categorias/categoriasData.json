@@ -1,0 +1,41 @@
+{
+	"data": {
+		"items": [
+			{
+				"id": "1",
+				"nombre": "Artesania",
+				"descripción": "Descripcion Artesania"
+			},
+			{
+				"id": "2",
+				"nombre": "Carpinteria",
+				"descripción": "Descripcion Carpinteria"
+			},
+			{
+				"id": "3",
+				"nombre": "Cerámica",
+				"descripción": "Descripcion Cerámica"
+			},
+			{
+				"id": "4",
+				"nombre": "Marroquineria",
+				"descripción": "Descripcion Marroquineria"
+			},
+			{
+				"id": "5",
+				"nombre": "Textil",
+				"descripción": "Descripcion Textil"
+			},
+			{
+				"id": "6",
+				"nombre": "Bisutería",
+				"descripción": "Descripcion Bisutería"
+			},
+			{
+				"id": "7",
+				"nombre": "Adorno",
+				"descripción": "Descripcion Adorno"
+			}
+		]
+	}
+}

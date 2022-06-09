@@ -1,0 +1,82 @@
+{
+	"data": {
+		"items": [
+			{
+				"id": 1614,
+				"nombre": "Mate Uruguayo",
+				"descripcion": "Mate Uruguayo Artesanal",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_655440-MLA42836141224_072020-O.webp",
+				"categoria": "Artesania",
+				"tipo": "Muestra",
+				"formaComercializacion": "Forma comercialización Mate Uruguayo",
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 6058
+			},
+			{
+				"id": 1514,
+				"nombre": "Mate Acero Inoxidable",
+				"descripcion": "Mate Con Bombilla Acero Inoxidable",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_793165-MLA46273893474_062021-O.webp",
+				"categoria": "Artesania",
+				"tipo": "Venta",
+				"precio": 350.25,
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 5487
+			},
+			{
+				"id": 1414,
+				"nombre": "Mate Madera",
+				"descripcion": "Mate Madera De Diseño Calden Corporativo Regalo Bazar",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_998836-MLA44022767090_112020-O.webp",
+				"categoria": "Carpinteria",
+				"formaComercializacion": "Forma comercialización Mate Madera",
+				"tipo": "Muestra",
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 9985
+			},
+			{
+				"id": 1314,
+				"nombre": "Mate De Calabaza",
+				"descripcion": "Mate De Calabaza Pulida + Base De Metal",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_751482-MLA46133276843_052021-O.webp",
+				"categoria": "Artesania",
+				"tipo": "Venta",
+				"precio": 280.6,
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 2547
+			},
+			{
+				"id": 1635,
+				"nombre": "Pulsera Cuero",
+				"descripcion": "Pulsera Hombre - Pulsera Cuero Genuino Trenzado - Cierre Acero - Brazalete Hombre - Pulseras Hombre - Brazalete Cuero",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_874738-MLA42198101860_062020-O.webp",
+				"categoria": "Marroquineria",
+				"tipo": "Venta",
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 6321
+			},
+			{
+				"id": 1625,
+				"nombre": "Florero",
+				"descripcion": "Florero Jarrón Modelo Indigo Azul",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_932033-MLA43595144131_092020-O.webp",
+				"categoria": "Cerámica",
+				"tipo": "Muestra",
+				"formaComercializacion": "Forma comercialización Florero",
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 1514
+			},
+			{
+				"id": 1485,
+				"nombre": "Atrapa Sueños",
+				"descripcion": "Atrapa Sueños Decorativo Tejido Con Plumas",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_850975-MLA31609000418_072019-O.webp",
+				"categoria": "Adorno",
+				"tipo": "Muestra",
+				"formaComercializacion": "Forma comercialización Adorno",
+				"informacionContacto": "Teléfono: 4458-6332 mail: contacto.mail@gmail.com",
+				"idArtesano": 8965
+			}
+		]
+	}
+}

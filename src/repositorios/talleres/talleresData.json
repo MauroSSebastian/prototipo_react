@@ -1,0 +1,70 @@
+{
+	"data": {
+		"items": [
+			{
+				"id": 10254,
+				"nombre": "Lo nuestro",
+				"descripcion": "Descripcion taller Lo nuestro",
+				"image_url": "https://www.comercionista.com/wp-content/uploads/2009/09/artem-gavrysh-698535-unsplash-800x445.jpg",
+				"direccion": "Urquiza 1088",
+				"categoria": "Artesania",
+				"actividadesOfrecidas": "Actividades ofrecidas por Lo nuestro",
+				"horarioDeAtencion": "9 a 18hs",
+				"numeroDeTelefono": "4428-6698",
+				"ubicacion": {
+					"lat": -34.542207,
+					"long": -58.702426
+				},
+				"idArtesano": 6658
+			},
+			{
+				"id": 21234,
+				"nombre": "Artesanias Locales",
+				"descripcion": "Descripcion taller Artesanias Locales",
+				"image_url": "https://emprendeconhuevos.com/wp-content/uploads/2020/04/artesanc3adas-playa-del-carmen-i.jpg",
+				"direccion": "Juan Bautista Alberdi 897",
+				"categoria": "Bisutería",
+				"actividadesOfrecidas": "Actividades ofrecidas por Artesanias Locales",
+				"horarioDeAtencion": "9 a 18hs",
+				"numeroDeTelefono": "4428-6698",
+				"ubicacion": {
+					"lat": -34.5487263401173,
+					"long": -58.697374233539186
+				},
+				"idArtesano": 4584
+			},
+			{
+				"id": 63364,
+				"nombre": "Todo Cueros",
+				"descripcion": "Descricion Todo Cueros",
+				"image_url": "https://www.ibiza5sentidos.es/wp-content/uploads/pedros4.jpg",
+				"direccion": "Av. Pte. J. D. Perón 3250",
+				"categoria": "Marroquineria",
+				"actividadesOfrecidas": "Actividades ofrecidas por Todo Cueros",
+				"horarioDeAtencion": "9 a 18hs",
+				"numeroDeTelefono": "4428-6698",
+				"ubicacion": {
+					"lat": -34.52996820054211,
+					"long": -58.728821995576546
+				},
+				"idArtesano": 6698
+			},
+			{
+				"id": 98874,
+				"nombre": "Keke Diseño",
+				"descripcion": "Descripcion Keke Diseño",
+				"image_url": "https://http2.mlstatic.com/D_NQ_NP_826631-MLA46039783323_052021-O.jpg",
+				"direccion": "Rodríguez Pena 1697",
+				"categoria": "Carpinteria",
+				"actividadesOfrecidas": "Actividades ofrecidas por Keke Diseño",
+				"horarioDeAtencion": "9 a 18hs",
+				"numeroDeTelefono": "4428-6698",
+				"ubicacion": {
+					"lat": -34.5477003626878,
+					"long": -58.710728770064826
+				},
+				"idArtesano": 9854
+			}
+		]
+	}
+}

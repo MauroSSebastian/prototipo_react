@@ -1,0 +1,18 @@
+//Publicaciones
+export const SEARCH_PUBLICACIONES = 'SEARCH_PUBLICACIONES';
+export const GET_PUBLICACION = 'GET_PUBLICACION';
+export const CLEAR_PUBLICACIONES = 'CLEAR_PUBLICACIONES';
+//Talleres
+export const SEARCH_TALLERES = 'SEARCH_TALLERES';
+export const GET_TALLER = 'GET_TALLER';
+export const CLEAR_TALLERES = 'CLEAR_TALLERES';
+//Misc
+export const SET_LOADING = 'SET_LOADING';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+//Filtros
+export const SET_CATEGORIAS = 'SET_CATEGORIAS';
+export const SET_TIPO_PUBLICACION = 'SET_TIPO_PUBLICACION';
+//Auth
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT = 'LOGOUT';
